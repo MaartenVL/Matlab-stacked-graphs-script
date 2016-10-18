@@ -1,4 +1,4 @@
-%execuring MVLdoubledecker_github
+%executing MVLdoubledecker_github
 clc
 clear all
 close all
